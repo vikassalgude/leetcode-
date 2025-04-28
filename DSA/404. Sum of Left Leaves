@@ -1,0 +1,15 @@
+class Solution {
+public:
+    void sum(int &s,TreeNode* root){
+        if(!root)return ;
+        if(root->left&&!root->left->left&&!root->left->right)   
+        s+=root->left->val;
+        sum(s,root->left);
+        sum(s,root->right);
+    }
+    int sumOfLeftLeaves(TreeNode* root) {
+          int s=0;
+          sum(s,root);
+          return s;
+    }
+};
