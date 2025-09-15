@@ -57,4 +57,12 @@ leetcode
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vikassalgude/leetcode-/tree/master/2699-count-the-number-of-fair-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/vikassalgude/leetcode-/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/vikassalgude/leetcode-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
