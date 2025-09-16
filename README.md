@@ -65,4 +65,5 @@ leetcode
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vikassalgude/leetcode-/tree/master/0191-number-of-1-bits) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/vikassalgude/leetcode-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
